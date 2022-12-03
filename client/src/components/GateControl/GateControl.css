@@ -1,0 +1,64 @@
+.table-box{
+    /* margin-top: 50px; */
+    /* margin-bottom: 50px; */
+    padding: 20px;
+    text-align: center;
+    height: 600px;
+    overflow-x: scroll;
+    overflow-x: hidden;
+    z-index:-1
+}
+
+.main-box{
+    overflow: hidden;
+}
+
+.over-box{
+    background-color: white;
+    /* opacity: 0.5; */
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.cells{
+    padding:5px;
+    color:black;
+    /* font-weight: bold; */
+}
+
+.search-box{
+    width:150px;
+    border-radius: 20px;
+    padding:5px;
+    border:2px solid black;
+}
+
+.the-button{
+    width:120px;
+    padding:5px;
+    border:solid white;
+    border-radius: 20px;
+}
+
+.enable-btn{
+    background-color: #008001;
+    color:white;
+    /* font-weight: bold; */
+}
+
+.disable-btn{
+    background-color: #d03123;
+    color:white;
+    /* font-weight: bold; */
+}
+
+.rounded-btn{
+    border-radius: 20px;
+}
+
+.clear-btn{
+    background-color: #6c757d;
+    color:white;
+}

@@ -1,0 +1,14 @@
+.App {
+  position: relative;
+  min-height: 100vh;
+  background-color: lightblue;
+}
+
+.Content{
+  position: relative;
+  /* background-color: rosybrown; */
+  min-height:87vh;
+  background-image: url("./assets/airplane.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

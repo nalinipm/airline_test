@@ -1,0 +1,54 @@
+.header {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #222;
+  color: white;
+  height:100px;
+}
+
+.h1{
+  margin:0px;
+}
+
+.navbar1 {
+  display: flex;
+  float:right;
+  /* padding-top:38px; */
+}
+
+.navbar2 {
+  display: flex;
+  padding-top:38px;
+}
+
+.navbar-nav, .navbar-light .nav-link {
+  color: #9FFFCB;
+  display: flex;
+  padding:10px;
+}
+
+.navbar-nav:hover,.navbar-light:hover,.nav-link:hover{
+  color: white;
+}
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
+
+.username{
+  pointer-events: none;
+}
+
+.username-2{
+  color: antiquewhite;
+}
